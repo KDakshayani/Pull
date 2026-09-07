@@ -7,3 +7,4 @@ print(f"{celsius}°C is equal to {fahrenheit}°F")
 
 
 print(f"Rounded Fahrenheit: {round(fahrenheit, 2)}°F")
+print("Thank you")
